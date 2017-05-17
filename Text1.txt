@@ -1,4 +1,12 @@
 Text1
 blue 
+<<<<<<< HEAD
 white
 edit5
+=======
+<<<<<<< HEAD
+yellow 
+=======
+white
+>>>>>>> 7dd738715b7449991d83824384d4e4a03cac384e
+>>>>>>> ef68de58735e300565d6e29a4499df07fce73523
