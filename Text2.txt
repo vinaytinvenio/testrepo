@@ -1,3 +1,4 @@
 Text2
 
 red
+pink

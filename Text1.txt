@@ -1,3 +1,7 @@
 Text1
 blue 
+<<<<<<< HEAD
 yellow 
+=======
+white
+>>>>>>> 7dd738715b7449991d83824384d4e4a03cac384e
